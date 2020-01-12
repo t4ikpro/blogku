@@ -1,0 +1,21 @@
+{
+  "name": "blogku",
+  "version": "1.0.0",
+  "description": "My supreme Nuxt.js project",
+  "author": "M Taris Apryanto 58",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/apollo": "^4.0.0-rc19",
+    "@nuxtjs/markdownit": "^1.2.7",
+    "graphql": "^14.5.8",
+    "nuxt": "^2.0.0",
+    "uikit": "^3.2.6"
+  },
+  "devDependencies": {}
+}
